@@ -1,0 +1,13 @@
+{
+    "XenServer": {
+        "url": "http://172.16.112.251",
+        "username": "root",
+        "password": "!QAZ4rfv",
+        "vm1": "DL_EN2022A",
+        "vm2": "DL_EN2022B"
+    },
+    "SavePath": {
+        "logFolderPath": "D:\\Automation\\logs",
+        "ResultsPath" : "D:\\Automation\\Results"
+    }
+}
